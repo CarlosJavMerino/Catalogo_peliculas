@@ -1,6 +1,3 @@
-Aquí tienes el README.md completo, integrando tanto la descripción técnica y
-funcional del proyecto como la guía de instalación y configuración:
-
 🎬 Netflix Desktop Clone (Python & Tkinter)
 
 Una aplicación de escritorio interactiva inspirada en la interfaz y experiencia
